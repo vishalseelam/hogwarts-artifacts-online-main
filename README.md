@@ -38,7 +38,7 @@ Additionally, this course emphasizes good software engineering practices, such a
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Washingtonwei/hogwarts-artifacts-online.git
+   git clone https://github.com/vishalseelam/hogwarts-artifacts-online-main.git
    ```
 
 2. **Navigate to the project directory:**
